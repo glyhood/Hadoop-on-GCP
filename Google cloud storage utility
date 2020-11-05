@@ -1,0 +1,1 @@
+gsutil cp gs://mike_adta5240/adta5240_hw1/data/userdata.csv userdata.csv
